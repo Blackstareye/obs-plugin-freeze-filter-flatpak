@@ -48,6 +48,11 @@ flatpak-builder --force-clean --user --install-deps-from=flathub --repo=repo --i
 
 ### Quickstart (SOON)
 
+![PR-Status](https://img.shields.io/github/status/s/pulls/flathub/flathub/6055?label=PR)
+
+When this PR [PR for Flathub](https://github.com/flathub/flathub/pull/6055)
+ is merged
+
 Go to your store and search for com.obsproject.Studio.Plugin.ObsFreezeFilter or install it via `terminal`:
 
 ```sh
