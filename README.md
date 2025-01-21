@@ -18,6 +18,9 @@ commit](https://img.shields.io/github/last-commit/Blackstareye/obs-plugin-freeze
 
 ## Description
 
+> [!Important] 
+> This is not the official flatpak build by the author, just for clarification
+
 ### What does it do ?
 
 see [OBS Forum](https://obsproject.com/forum/resources/freeze-filter.950/) for that info.
@@ -35,6 +38,8 @@ But this is not the end of your plugin.
 
 With a flatpak build of your plugin with the id
 com.obsproject.Studio.Plugin.* this can be installed via linux stores and will be used without copying files.
+
+Atm, the author doesnt have a flatpak. I hope that it will be available soon.
 
 ## 🎯 Installation
 
