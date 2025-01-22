@@ -6,10 +6,6 @@
 )
 ![GitHub
 issues](https://img.shields.io/github/issues/Blackstareye/obs-plugin-freeze-filter-flatpak)
-![GitHub
-forks](https://img.shields.io/github/forks/Blackstareye/obs-plugin-freeze-filter-flatpak)
-![GitHub
-stars](https://img.shields.io/github/stars/Blackstareye/obs-plugin-freeze-filter-flatpak)
 ![GitHub last
 commit](https://img.shields.io/github/last-commit/Blackstareye/obs-plugin-freeze-filter-flatpak)
 ![Maintenance](https://img.shields.io/maintenance/yes/2025)
@@ -25,7 +21,7 @@ commit](https://img.shields.io/github/last-commit/Blackstareye/obs-plugin-freeze
 
 see [OBS Forum](https://obsproject.com/forum/resources/freeze-filter.950/) for that info.
 
-> [!NOTE] TLDR
+> [!NOTE] 
 > Plugin for OBS Studio to freeze a source using a filter
 
 ### Why does it need a flatpak build ?
@@ -49,19 +45,6 @@ Atm, the author doesnt have a flatpak. I hope that it will be available soon.
 git clone https://github.com/Blackstareye/obs-plugin-freeze-filter-flatpak obs_plugin
 cd obs_plugin
 flatpak-builder --force-clean --user --install-deps-from=flathub --repo=repo --install builddir com.obsproject.Studio.Plugin.ObsFreezeFilter.yml
-```
-
-### Quickstart (SOON)
-
-![PR-Status](https://img.shields.io/github/status/s/pulls/flathub/flathub/6055?label=PR)
-
-When this PR [PR for Flathub](https://github.com/flathub/flathub/pull/6055)
- is merged
-
-Go to your store and search for com.obsproject.Studio.Plugin.ObsFreezeFilter or install it via `terminal`:
-
-```sh
-flatpak install com.obsproject.Studio.Plugin.ObsFreezeFilter
 ```
 
 ## 📄 LICENSE
