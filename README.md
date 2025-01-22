@@ -30,10 +30,9 @@ According to the discussion in OBS official discord channel, plugin can't be ins
 
 So this plugin can't be used in flatpak builds anymore.
 
-But this is not the end of your plugin.
+But this is not of that plugin.
 
-With a flatpak build of your plugin with the id
-com.obsproject.Studio.Plugin.* this can be installed via linux stores and will be used without copying files.
+Hence I wanted to continue using that plugin I build a flatpak version of it.
 
 Atm, the author doesnt have a flatpak. I hope that it will be available soon.
 
