@@ -18,7 +18,7 @@ modules:
       - type: git
         url: https://github.com/exeldro/obs-freeze-filter
         #tag: v0.3.3
-        commit: 7ade7f880816b2025dbccf960837efeaa02b988d
+        commit: d9c68e69fb0407230f63ac8b93ee3cb151143aa8
         disable-submodules: true # TODO: To remove next version
         #x-checker-data:
         #  type: git
